@@ -1,0 +1,11 @@
+{
+    "[markdown]": {
+    },
+    "cSpell.language": "es,es-ES",
+    "frontMatter.content.pageFolders": [
+        {
+            "title": "content",
+            "path": "[[workspace]]/content"
+        }
+    ]
+}

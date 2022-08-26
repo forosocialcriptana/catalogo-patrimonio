@@ -1,0 +1,66 @@
+title = "Catálogo de Patrimonio de Campo de Criptana"
+baseURL = ""
+languageCode = "es-es"
+theme = "ananke"
+resourceDir = "../resources"
+
+DefaultContentLanguage = "es"
+SectionPagesMenu = "main"
+Paginate = 300 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  text_color = ""
+  author = "Foro Social"
+  favicon = "/img/logos/favicon.png"
+  # site_logo = "/img/logos/rotulo-foro.png"
+  description = "Lugares de interés histórico, artístico, ambiental y etnográfico"
+  # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-dark-blue"
+  recent_posts_number = 3
+  disqusShortname = "forosocialcriptana"
+
+[menu]
+[[menu.main]]
+  name = "Mapa"
+  weight = 1
+  identifier = "mapa"
+  url = "/mapa/"
+[[menu.main]]
+  name = "Lugares"
+  weight = 2
+  identifier = "lugares"
+  url = "/lugares/"
+[[menu.main]]
+  name = "Info"
+  weight = 3
+  identifier = "info"
+  url = "/info/"
+[[menu.main]]
+  name = "Contacto"
+  weight = 4
+  identifier = "contacto"
+  url = "/contacto/"
+
+[[params.ananke_socials]]
+  name = "twitter"
+  url = "https://twitter.com/fscriptana"
+[[params.ananke_socials]]
+  name = "facebook"
+  url = "https://www.facebook.com/forosocialcriptana"
+[[params.ananke_socials]]
+  name = "instagram"
+  url = "https://www.instagram.com/forosocialcriptana/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+

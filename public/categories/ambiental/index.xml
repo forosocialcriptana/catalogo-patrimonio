@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ambiental on Catálogo de Patrimonio de Campo de Criptana</title>
+    <link>/categories/ambiental/</link>
+    <description>Recent content in Ambiental on Catálogo de Patrimonio de Campo de Criptana</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 19 Aug 2013 12:34:15 +0000</lastBuildDate><atom:link href="/categories/ambiental/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Álamo blanco centenario</title>
+      <link>/lugares/alamo-blanco-centenario/</link>
+      <pubDate>Mon, 19 Aug 2013 12:34:15 +0000</pubDate>
+      
+      <guid>/lugares/alamo-blanco-centenario/</guid>
+      <description>Bonito ejemplar de álamo blanco (populus alba) en las inmediaciones del Valle de los Deseos, donde antes había una olmeda tradicional manchega que fue talada a mediados de la década de los ochenta sin otra razón que la crematística, para obtener cereal.
+El álamo blanco viene a establecerse con garantías de desarrollo en aquellos sitios donde antes reinaba el olmo, ya que este, a partir de mediados de los noventa fue atacado con virulencia y fulminado en todo el término municipal por la grafiosis.</description>
+    </item>
+    
+  </channel>
+</rss>
