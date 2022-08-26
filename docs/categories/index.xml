@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Catálogo de Patrimonio de Campo de Criptana</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on Catálogo de Patrimonio de Campo de Criptana</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Fri, 15 Jul 2016 00:11:59 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ambiental</title>
+      <link>/categories/ambiental/</link>
+      <pubDate>Fri, 15 Jul 2016 00:11:59 +0000</pubDate>
+      
+      <guid>/categories/ambiental/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Etnográfico</title>
+      <link>/categories/etnogr%C3%A1fico/</link>
+      <pubDate>Fri, 15 Jul 2016 00:11:59 +0000</pubDate>
+      
+      <guid>/categories/etnogr%C3%A1fico/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Histórico</title>
+      <link>/categories/hist%C3%B3rico/</link>
+      <pubDate>Sun, 09 Feb 2014 19:22:37 +0000</pubDate>
+      
+      <guid>/categories/hist%C3%B3rico/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Artístico</title>
+      <link>/categories/art%C3%ADstico/</link>
+      <pubDate>Tue, 06 Aug 2013 12:53:44 +0000</pubDate>
+      
+      <guid>/categories/art%C3%ADstico/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -3,6 +3,7 @@ baseURL = ""
 languageCode = "es-es"
 theme = "ananke"
 resourceDir = "../resources"
+publishDir = "docs"
 
 DefaultContentLanguage = "es"
 SectionPagesMenu = "main"
