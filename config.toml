@@ -1,5 +1,5 @@
 title = "Catálogo de Patrimonio de Campo de Criptana"
-baseURL = "https://forosocialcriptana.com/"
+baseURL = "https://forosocialcriptana.github.io/catalogo-patrimonio"
 languageCode = "es-es"
 theme = "ananke"
 resourceDir = "../resources"
