@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/run/media/alf/datos/web/catalogo-patrimonio",
+	"sourceRoot": "/run/media/alf/datos/web/catalogo-patrimonio-old",
 	"sources": [
 		"stdin"
 	],

@@ -1,5 +1,5 @@
 title = "Catálogo de Patrimonio de Campo de Criptana"
-baseURL = ""
+baseURL = "/"
 languageCode = "es-es"
 theme = "ananke"
 resourceDir = "../resources"
@@ -19,7 +19,7 @@ enableRobotsTXT = true
 [params]
   text_color = ""
   author = "Foro Social"
-  favicon = "/img/logos/favicon.png"
+  favicon = "/img/logos/favicon.ico"
   # site_logo = "/img/logos/rotulo-foro.png"
   description = "Lugares de interés histórico, artístico, ambiental y etnográfico"
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
